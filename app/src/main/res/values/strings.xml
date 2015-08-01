@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stroker</string>
+    <string name="action_previous">Select previous</string>
+    <string name="action_next">Select next</string>
+    <string name="action_raise">Raise selected</string>
+    <string name="action_lower">Lower selected</string>
+    <string name="action_delete">Delete last</string>
+    <string name="action_delete_all">Delete all</string>
+    <string name="action_settings">Settings</string>
+</resources>

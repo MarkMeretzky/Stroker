@@ -1,0 +1,50 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_previous"
+        android:title="@string/action_previous"
+        android:orderInCategory="1"
+        android:textColor="#FFFF0000"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_next"
+        android:title="@string/action_next"
+        android:orderInCategory="2"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_raise"
+        android:title="@string/action_raise"
+        android:orderInCategory="3"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_lower"
+        android:title="@string/action_lower"
+        android:orderInCategory="4"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_delete"
+        android:title="@string/action_delete"
+        android:orderInCategory="5"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_delete_all"
+        android:title="@string/action_delete_all"
+        android:orderInCategory="6"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+</menu>
